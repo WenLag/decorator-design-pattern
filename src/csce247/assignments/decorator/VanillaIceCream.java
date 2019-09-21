@@ -1,5 +1,9 @@
 package csce247.assignments.decorator;
-
+/**
+ * VanillaIceCream.java - icecream type class 
+ * @author Nguyen
+ *
+ */
 public class VanillaIceCream extends IceCream{
 
 	VanillaIceCream(){

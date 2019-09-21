@@ -1,5 +1,9 @@
 package csce247.assignments.decorator;
-
+/**
+ * IceCreamShopDrive.Java - main class for demonstrating the decorator design pattern
+ * @author Nguyen
+ * @version 1.0
+ */
 public class IceCreamShopDriver {
 	public static void main(String[] args) {
 		IceCream vanillaIce = new VanillaIceCream();

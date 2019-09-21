@@ -1,5 +1,9 @@
 package csce247.assignments.decorator;
-
+/**
+ * Sprinkles.java - topping class
+ * @author Nguyen
+ *
+ */
 public class Sprinkles extends ToppingsDecorator {
 	private IceCream iceCream;
 	public Sprinkles(IceCream iceCream) {

@@ -1,5 +1,9 @@
 package csce247.assignments.decorator;
-
+/**
+ * ChocolateChips.java - topping class 
+ * @author Nguyen
+ *
+ */
 public class ChocolateChips extends ToppingsDecorator {
 	IceCream iceCream;
 	public ChocolateChips(IceCream iceCream) {
